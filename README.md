@@ -68,6 +68,8 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 ![image](https://user-images.githubusercontent.com/93835587/149833592-40ec1a59-e3d0-4823-adf0-997669ef69e6.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\CT=&space;\frac{1}{\frac{1}{0.01&plus;0.068}&plus;\frac{1}{0.047&plus;0.056}}\\CT=0.4&space;&space;" title="\\CT= \frac{1}{\frac{1}{0.01+0.068}+\frac{1}{0.047+0.056}}\\CT=0.4 " />
+
 31. Determine cuánto tiempo se lleva el capacitor para cargarse por completo con cada una de las combinaciones siguientes:
 
 ![image](https://user-images.githubusercontent.com/93835587/149833658-1b548c48-c6bd-4c34-b80e-1982fc4b39fa.png)
