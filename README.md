@@ -224,9 +224,11 @@ Respuesta
 
 45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia
 
+<img src="https://latex.codecogs.com/svg.image?\\I=\frac{V}{X_{C}}&space;\\I=\frac{20V}{X_{0.9A}}\\I=200\mho&space;&space;" title="\\I=\frac{V}{X_{C}} \\I=\frac{20V}{X_{0.9A}}\\I=200\mho " />
+
 47.Determine la potencia verdadera y la potencia reactiva en el problema 46. 
 
-<img src="https://latex.codecogs.com/svg.image?\\I=\frac{V}{X_{C}}&space;\\I=\frac{20V}{X_{0.9A}}\\I=200\mho&space;&space;" title="\\I=\frac{V}{X_{C}} \\I=\frac{20V}{X_{0.9A}}\\I=200\mho " />
+
 
 49. Determine el valor de C1 en la figura 12-82.
 
