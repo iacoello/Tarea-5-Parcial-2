@@ -205,6 +205,8 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 ![image](https://user-images.githubusercontent.com/93835587/149833867-aedf95bd-290d-49e6-a532-22c92f4abb62.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\T=RC&space;\\R_{qe}&space;=&space;1.47k\mho&space;\\r=1.47x10^{3}\cdot&space;0.0022x10^{-6}\\r=3.23\mu&space;s&space;" title="\\T=RC \\R_{qe} = 1.47k\mho \\r=1.47x10^{3}\cdot 0.0022x10^{-6}\\r=3.23\mu s " />
+
 41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El
 interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se
 queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor.
