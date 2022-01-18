@@ -41,6 +41,104 @@
 
 **3.RESOLUCIÓN DE LOS EJERCICIOS**
 
+37. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
+
+![image](https://user-images.githubusercontent.com/93835533/149923069-8059b260-8ed7-4a33-92e0-ee83428eed64.png)
+
+![image](https://user-images.githubusercontent.com/93835533/149923356-97478471-c84d-4018-99ff-018878ecc52e.png)
+
+39. ¿Cuál es la frecuencia de cada forma de onda diente de sierra mostrada en la figura 11-87?
+
+![image](https://user-images.githubusercontent.com/93835533/149923444-4b99b919-5a2b-4183-b669-058b5440c4a6.png)
+
+![image](https://user-images.githubusercontent.com/93835533/149923637-170485f6-7a97-4156-8294-9c06686d1f67.png)
+
+41. El periodo de una onda cuadrada es de 40 ms. Haga una lista con los seis primeros armónicos impares.
+
+![image](https://user-images.githubusercontent.com/93835533/149923744-952dd22e-2bab-4328-a7c7-a42b904a6762.png)
+
+43. Determine el valor pico y el periodo para la onda seno mostrada en la pantalla del osciloscopio de la figura 11-89.
+
+![image](https://user-images.githubusercontent.com/93835533/149923787-3902376a-5e77-41c9-b11f-b26d48dd465b.png)
+
+![image](https://user-images.githubusercontent.com/93835533/149923905-0d22d2b6-048f-4520-9a7b-85317bd5acc8.png)
+
+45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrado en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida. 
+
+![image](https://user-images.githubusercontent.com/93835533/149923959-979ad97f-699c-4758-ba83-8c52e5273ccc.png)
+
+![image](https://user-images.githubusercontent.com/93835533/149924144-57509a81-a7df-4a2b-b023-6c42acc5d674.png)
+
+1. (a) Encuentre la capacitancia cuando Q = 50 μC y V = 10 V.
+
+![image](https://user-images.githubusercontent.com/93835533/149924295-4aaaac7e-aff4-486f-a7c7-1db4c99c0f0a.png)
+
+(b) Determine la carga cuando C =0.001 μF y V = 1 kV.
+
+![image](https://user-images.githubusercontent.com/93835533/149924443-0a10ec94-e893-4316-945e-d3fc00415bc1.png)
+
+(c) Determine el voltaje cuando Q = 2 mC y C = 200 μF.
+
+![image](https://user-images.githubusercontent.com/93835533/149924572-2a4a882a-bfd0-4af9-9a7d-a182fd64bf92.png)
+
+3. Transforme los siguientes valores de picofarads a microfarads: 
+
+![image](https://user-images.githubusercontent.com/93835533/149924721-5d2fe6da-e492-4007-be04-391e7a86d6d5.png)
+
+5. ¿Cuánta energía guarda un capacitor de 1000 μF que se carga a 500 V?
+
+![image](https://user-images.githubusercontent.com/93835533/149924900-da0615bd-195d-4122-a248-fc90e2b9354d.png)
+
+7. Calcule la permitividad absoluta, ε, para cada uno de los siguientes materiales. Consulte la tabla 12-3 para obtener los valores de εr.
+
+![image](https://user-images.githubusercontent.com/93835533/149924946-4aed4153-ec4a-4e47-af4a-8e1e197bc481.png)
+
+![image](https://user-images.githubusercontent.com/93835533/149925187-1a3623df-094c-4ec3-a22f-39ac00a27899.png)
+
+9. Un capacitor de aire tiene un área de placas total de 0,05 m^2. La separación entre las placas es de 4.5 X 10^-4 m. Calcule la capacitancia.
+
+![image](https://user-images.githubusercontent.com/93835533/149925293-e1a3af9d-06b0-4f8e-b164-5706d7ec8af1.png)
+
+11. Un estudiante decide construir un capacitor con dos placas conductoras de 30 cm por lado. Separa las placas con un dieléctrico de papel (εr = 2.5) de 8 X 10^-5 de espesor. ¿Cuál es la capacitancia de su capacitor?
+
+![image](https://user-images.githubusercontent.com/93835533/149925410-7f76f556-399c-43fe-ab63-086aeadd13a0.png)
+
+13. Un capacitor de 0.001 μF tiene coeficiente de temperatura positivo de 500 ppm/°C. ¿Cuánto cambio de capacitancia provocará un incremento de 25°C en la temperatura?
+
+Incremento de 12.5 pF
+
+15. De mica o cerámica, ¿cuál tipo de capacitor tiene la constante dieléctrica más alta?
+
+![image](https://user-images.githubusercontent.com/93835533/149925479-8dbe5cf6-799d-42b9-bb21-01883490a469.png)
+
+El capacitor con constante dieléctrica más alta es el de cerámica debido a que este material tiene mayor capacidad para establecer un campo eléctrico. 
+
+17. Nombre dos tipos de capacitores electrolíticos. ¿Cómo difieren los capacitores electrolíticos de otros capacitores?
+
+•	Electróliticos de aluminio 
+
+•	Electróliticos de tantalio 
+
+Los capacitores electrolíticos difieren en otros capacitores porque se polarizan de modo que una placa sea positiva y la otra negativa.
+
+19. Determine el valor de los capacitores de disco de cerámica mostrados en la figura 12-68.
+
+![image](https://user-images.githubusercontent.com/93835533/149925601-fa803bf8-c1c9-4e17-b197-afec35f40808.png)
+
+(a) 0,022 μF
+
+(b) 0,047 μF
+
+(c) 0,001 μF
+
+(d) 220 pF
+
+
+
+
+
+
+
 21. Determine la capacitancia total para cada uno de los circuitos mostrados en la figura 12-69. 
 
 ![image](https://user-images.githubusercontent.com/93835587/149833277-50132790-e3d6-4670-b336-97c0730ff9e7.png)
