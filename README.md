@@ -19,10 +19,16 @@
 
 **1. OBJETIVOS**
 
+Desarrollar los ejercicios correspondientes a las unidades 11 y 12 pertenecientes al libro de trabajo de circuitos electricos con las tematicas de capacitores de manera teorica y practica.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **1.2 OBJETIVOS ESPECIFICOS** 
+
+Desarrollar los ejercicios de la unidad 11
+
+Desarrollar los ejercicios de la unidad 12
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -254,6 +260,8 @@ forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se e
 
 
 **5.CONCLUCIONES**
+
+En conclucion los capacitores y sistemas similares relacionados a los circuitos electricos desempeñan la funcion de un sistema con campo interno de energia que permite varias funcionalidades dentro de un circuito de este tipo, estos tienen la caracteristica de poder ser de diferentes materiales dependiendo de la nececidad de resistencia y capacitancia que el circuito necesite y desempeñan una labor fundamental dentro del desarrollo de los circuitos electricos.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
