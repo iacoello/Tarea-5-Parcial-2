@@ -228,7 +228,7 @@ Respuesta
 
 47.Determine la potencia verdadera y la potencia reactiva en el problema 46. 
 
-
+<img src="https://latex.codecogs.com/svg.image?\\x_{c}&space;=&space;\frac{1}{2\pi&space;\cdot&space;f\cdot&space;c}\\x_{c}&space;=&space;\frac{1}{2\pi&space;\cdot&space;10kHz\cdot&space;0.0047\mu&space;F}&space;\\x_{c}&space;=&space;3.39k&space;\mho&space;&space;\\v=I\cdot&space;x_{c}&space;\\v=1mA\cdot&space;3.39k&space;\mho&space;&space;&space;\\v=3.39V&space;" title="\\x_{c} = \frac{1}{2\pi \cdot f\cdot c}\\x_{c} = \frac{1}{2\pi \cdot 10kHz\cdot 0.0047\mu F} \\x_{c} = 3.39k \mho \\v=I\cdot x_{c} \\v=1mA\cdot 3.39k \mho \\v=3.39V " />
 
 49. Determine el valor de C1 en la figura 12-82.
 
