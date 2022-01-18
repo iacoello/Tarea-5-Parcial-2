@@ -234,6 +234,8 @@ Respuesta
 
 ![49999](https://user-images.githubusercontent.com/93835587/149851573-70ed5fb2-596b-4d8e-8d05-5c6aa48e5e27.jpg)
 
+<img src="https://latex.codecogs.com/svg.image?\\x_{c}&space;=&space;\frac{1}{2\pi&space;\cdot&space;f\cdot&space;c}\\750\mho&space;=&space;\frac{1}{2\pi&space;\cdot&space;0.0015\mu&space;f\cdot&space;f}&space;\\f=0.14Hz&space;\\v=I\cdot&space;x_{c}&space;\\I=\frac{V}{X_{C}}&space;\\I=\frac{3V}{516.74}&space;\\I=5.81mA&space;\\I_{C}=&space;5.81mA&space;&plus;4mA\\I_{C}=9.81mA&space;" title="\\x_{c} = \frac{1}{2\pi \cdot f\cdot c}\\750\mho = \frac{1}{2\pi \cdot 0.0015\mu f\cdot f} \\f=0.14Hz \\v=I\cdot x_{c} \\I=\frac{V}{X_{C}} \\I=\frac{3V}{516.74} \\I=5.81mA \\I_{C}= 5.81mA +4mA\\I_{C}=9.81mA " />
+
 53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una
 forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula
 
