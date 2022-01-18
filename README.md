@@ -65,27 +65,36 @@ f) F=1/0.1= 100
 
 <img src="https://latex.codecogs.com/svg.image?2\Pi&space;\sqrt[]{1/g}" title="2\Pi \sqrt[]{1/g}" />
 
-T= 50
+10ms/5=2us
 
 5. La espira conductora del rotor de un generador monofásico de dos polos gira a 250 rps. ¿Cuál es la frecuencia
 del voltaje de salida inducido?
 
 <img src="https://latex.codecogs.com/svg.image?F=1/T" title="F=1/T" />
 
-F=0.004
+250hz
 
 7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal
 de 400 Hz?
 
+400hz/2=200 rps
 La rapidez y la frecuencia son directamente proporcionales.
 
 9. El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
 
 a)Pico 
 
+<img src="https://latex.codecogs.com/svg.image?Ip01.414Irms" title="Ip01.414Irms" />
+
+<img src="https://latex.codecogs.com/svg.image?Ip=1.414(5)=7.07mA" title="Ip=1.414(5)=7.07mA" />
+
 b)Promedio
 
+<img src="https://latex.codecogs.com/svg.image?Iprom=0.637(7.07)=4.5mA" title="Iprom=0.637(7.07)=4.5mA" />
+
 c)Pico a pico
+
+<img src="https://latex.codecogs.com/svg.image?Ipico&space;pico=2.828(5)=14.15mA" title="Ipico pico=2.828(5)=14.15mA" />
 
 El periodo es desde un cruce por cero hasta el siguiente cruce por cero correspondiente, o desde un pico
 hasta el siguiente pico correspondiente.
@@ -120,31 +129,40 @@ f)300
 hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la
 que se adelanta?
 
+<img src="https://latex.codecogs.com/svg.image?\beta&space;=45&space;-30=15&space;grados" title="\beta =45 -30=15 grados" />ç
 
-
-15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se
-retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
+se coloca adelante debido a que tiene menor angulo
 
 17. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor
 instantáneo en cada uno de los siguientes puntos:
 
 a)35
 
+<img src="https://latex.codecogs.com/svg.image?y=100*sen35=57.35" title="y=100*sen35=57.35" />
+
 b)95
+
+<img src="https://latex.codecogs.com/svg.image?y=100*sen95=99.6" title="y=100*sen95=99.6" />
 
 c)190
 
+<img src="https://latex.codecogs.com/svg.image?y=100*sen190=-17.36" title="y=100*sen190=-17.36" />
+
 d)215
+
+<img src="https://latex.codecogs.com/svg.image?y=100*sen215=-57.35" title="y=100*sen215=-57.35" />
 
 e)275
 
+<img src="https://latex.codecogs.com/svg.image?y=100*sen275=-99.6" title="y=100*sen275=-99.6" />
+
 f)360
 
+<img src="https://latex.codecogs.com/svg.image?y=100*sen360=0" title="y=100*sen360=0" />
 
 19. La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V.
 La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo
 de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
-
 
 
 21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo
