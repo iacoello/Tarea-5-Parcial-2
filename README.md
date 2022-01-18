@@ -199,6 +199,8 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 
 ![image](https://user-images.githubusercontent.com/93835587/149833813-6bc98d7c-12dd-4720-bb02-e56fce3e5a98.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\t=-RCln\left&space;(1-&space;\frac{v}{vf}&space;\right&space;)\\t=10\mho&space;\cdot&space;0.001\mu&space;F\left&space;(1-&space;\frac{8v}{15v}&space;\right&space;)&space;\\t=7.62\mu&space;s&space;" title="\\t=-RCln\left (1- \frac{v}{vf} \right )\\t=10\mho \cdot 0.001\mu F\left (1- \frac{8v}{15v} \right ) \\t=7.62\mu s " />
+
 39. Determine la constante de tiempo para el circuito de la figura 12-77
 
 ![image](https://user-images.githubusercontent.com/93835587/149833867-aedf95bd-290d-49e6-a532-22c92f4abb62.png)
