@@ -77,10 +77,35 @@ F=0.004
 7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal
 de 400 Hz?
 
+T=
 
 9. El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
 
 11. Transforme los siguientes valores angulares de grados a radianes:
+
+a)30=
+
+<img src="https://latex.codecogs.com/svg.image?30*Pi/180=&space;0.523" title="30*Pi/180= 0.523" />
+
+b)45
+
+<img src="https://latex.codecogs.com/svg.image?45*Pi/180=&space;0.785" title="45*Pi/180= 0.785" />
+
+c)78
+
+<img src="https://latex.codecogs.com/svg.image?78*Pi/180=&space;1.361" title="78*Pi/180= 1.361" />
+
+d)135
+
+<img src="https://latex.codecogs.com/svg.image?135*Pi/180=&space;2.35" title="135*Pi/180= 2.35" />
+
+e)200
+
+<img src="https://latex.codecogs.com/svg.image?200*Pi/180=&space;3.49" title="200*Pi/180= 3.49" />
+
+f)300
+
+<img src="https://latex.codecogs.com/svg.image?300*Pi/180=&space;5.23" title="300*Pi/180= 5.23" />
 
 13. Una onda seno A tiene un cruce por cero hacia positivo en 30°. La onda seno B tiene un cruce por cero
 hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la
