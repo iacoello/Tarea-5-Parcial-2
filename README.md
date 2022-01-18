@@ -193,7 +193,7 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 35. Repita el problema 33 con los siguientes tiempos:
 (a) 0.5 ms (b) 1 ms (c) 2 ms
 
-
+<img src="https://latex.codecogs.com/svg.image?\\T=RC&space;\\T=1000\mho&space;\cdot&space;1.5x10^{-6}=&space;1.5ms\\\left&space;(&space;a&space;\right&space;)v=25v\cdot&space;e^{-0.5&space;\cdot&space;1.5ms}\to&space;17.91v\\\left&space;(&space;b&space;\right&space;)v=25v\cdot&space;e^{-1&space;\cdot&space;1.5ms}\to&space;12.83v\\\left&space;(&space;c&space;\right&space;)v=25v\cdot&space;e^{-2&space;\cdot&space;1.5ms}\to&space;6.59v" title="\\T=RC \\T=1000\mho \cdot 1.5x10^{-6}= 1.5ms\\\left ( a \right )v=25v\cdot e^{-0.5 \cdot 1.5ms}\to 17.91v\\\left ( b \right )v=25v\cdot e^{-1 \cdot 1.5ms}\to 12.83v\\\left ( c \right )v=25v\cdot e^{-2 \cdot 1.5ms}\to 6.59v" />
 
 37. ¿Cuánto tiempo requiere C para cargarse a 8 V en la figura 12-74?
 
