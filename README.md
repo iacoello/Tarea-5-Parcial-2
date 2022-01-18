@@ -222,6 +222,8 @@ Respuesta
 
 ![image](https://user-images.githubusercontent.com/93835587/149834033-a7b60e85-ac97-47cf-90c4-e58d60b13051.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\\left&space;(&space;a&space;\right&space;)x_{c}&space;=&space;\frac{1}{2\pi&space;\cdot&space;f\cdot&space;c}\\x_{c}&space;=&space;\frac{1}{2\pi&space;\cdot&space;2.2&plus;3.2\cdot&space;10&plus;10}&space;\\x_{c}&space;=30.4&space;\\\left&space;(&space;b&space;\right&space;)x_{c}&space;=&space;\frac{1}{2\pi&space;\cdot&space;f\cdot&space;c}\\x_{c}&space;=&space;\frac{1}{2\pi&space;\cdot&space;1000&plus;470\cdot&space;100&plus;100}&space;\\x_{c}&space;=115&space;&space;" title="\\\left ( a \right )x_{c} = \frac{1}{2\pi \cdot f\cdot c}\\x_{c} = \frac{1}{2\pi \cdot 2.2+3.2\cdot 10+10} \\x_{c} =30.4 \\\left ( b \right )x_{c} = \frac{1}{2\pi \cdot f\cdot c}\\x_{c} = \frac{1}{2\pi \cdot 1000+470\cdot 100+100} \\x_{c} =115 " />
+
 45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia
 
 <img src="https://latex.codecogs.com/svg.image?\\I=\frac{V}{X_{C}}&space;\\I=\frac{20V}{X_{0.9A}}\\I=200\mho&space;&space;" title="\\I=\frac{V}{X_{C}} \\I=\frac{20V}{X_{0.9A}}\\I=200\mho " />
