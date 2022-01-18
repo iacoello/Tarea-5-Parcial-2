@@ -81,6 +81,8 @@ El capacitor de 1 mF se carga a 8 V y el otro a 4 V. ¿Cuál es el valor del cap
 33. En la figura 12-75, el capacitor se carga a 25 V. Cuando se cierra el interruptor, ¿cuál es el voltaje presente en el capacitor en los instantes posteriores?
 (a) 1.5 ms (b) 4.5 ms (c) 6 ms (d) 7.5 ms
 
+![3333](https://user-images.githubusercontent.com/93835587/149851516-08abecae-958c-4e03-8f63-928648054839.jpg)
+
 35. Repita el problema 33 con los siguientes tiempos:
 (a) 0.5 ms (b) 1 ms (c) 2 ms
 
@@ -109,8 +111,12 @@ queda por tiempo indefinido. Trace la forma de onda completa del voltaje present
 
 49. Determine el valor de C1 en la figura 12-82.
 
+![49999](https://user-images.githubusercontent.com/93835587/149851573-70ed5fb2-596b-4d8e-8d05-5c6aa48e5e27.jpg)
+
 53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una
 forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
