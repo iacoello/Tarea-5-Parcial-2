@@ -107,7 +107,7 @@ queda por tiempo indefinido. Trace la forma de onda completa del voltaje present
 
 45. Un voltaje sinusoidal de 20 V rms produce una corriente rms de 100 mA cuando se conecta a cierto capacitor. ¿Cuál es la reactancia
 
-47. Determine la potencia verdadera y la potencia reactiva en el problema 46. 
+47.Determine la potencia verdadera y la potencia reactiva en el problema 46. 
 
 49. Determine el valor de C1 en la figura 12-82.
 
@@ -116,6 +116,7 @@ queda por tiempo indefinido. Trace la forma de onda completa del voltaje present
 53. En un circuito de capacitor conmutado, el capacitor tiene un valor de 2200 pF y se conmuta con una
 forma de onda cuyo periodo es de 10 ms. Determine el valor del resistor que se emula
 
+<img src="https://latex.codecogs.com/svg.image?\\Formula\\R=\frac{T}{C}&space;\\R=\frac{10000\mu&space;s}{2200pF}&space;&space;\\R=4.55\mu&space;s&space;" title="\\Formula\\R=\frac{T}{C} \\R=\frac{10000\mu s}{2200pF} \\R=4.55\mu s " />
 
 
 
