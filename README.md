@@ -77,9 +77,18 @@ F=0.004
 7. ¿A qué rapidez de rotación debe ser operado un generador de cuatro polos para producir un voltaje sinusoidal
 de 400 Hz?
 
-T=
+La rapidez y la frecuencia son directamente proporcionales.
 
 9. El valor rms de una corriente sinusoidal es de 5 mA. Determine los siguientes valores:
+
+a)Pico 
+
+b)Promedio
+
+c)Pico a pico
+
+El periodo es desde un cruce por cero hasta el siguiente cruce por cero correspondiente, o desde un pico
+hasta el siguiente pico correspondiente.
 
 11. Transforme los siguientes valores angulares de grados a radianes:
 
@@ -111,15 +120,32 @@ f)300
 hacia positivo en 45°. Determine el ángulo de fase que hay entre las dos señales. ¿Cuál señal es la
 que se adelanta?
 
+
+
 15. Trace un bosquejo de dos ondas seno como sigue: la onda seno A es la referencia y la onda seno B se
 retrasa 90° con respecto a la A. Ambas ondas tienen amplitudes iguales.
 
 17. Para una corriente sinusoidal particular referida a 0°, el valor pico es de 100 mA. Determine el valor
 instantáneo en cada uno de los siguientes puntos:
 
+a)35
+
+b)95
+
+c)190
+
+d)215
+
+e)275
+
+f)360
+
+
 19. La onda seno A tiene 30° de retraso con respecto a la onda seno B. Ambas tienen valores pico de 15 V.
 La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo
 de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
+
+
 
 21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo
 dado (cruce por cero) en el instante t  0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?
@@ -127,11 +153,15 @@ dado (cruce por cero) en el instante t  0 s, ¿cuál es el cambio de voltaje de
 23. Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor
 representan valores pico.
 
+![78](https://user-images.githubusercontent.com/93800511/149942525-3281396e-f72f-4583-9ad2-9ebd3afb60d8.png)
+
 25. Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes,
 medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
 
 27. Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2
 en la figura 11-81. Todos los valores mostrados son rms.
+
+![78](https://user-images.githubusercontent.com/93800511/149942616-53e54b3c-2794-4d21-b703-73c63142468d.png)
 
 29. Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los
 valores máximo y mínimo de la forma de onda resultante?
@@ -141,7 +171,13 @@ valores máximo y mínimo de la forma de onda resultante?
 
 33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud.
 
+![78](https://user-images.githubusercontent.com/93800511/149942726-68830161-3756-46be-b34e-bf36a49c421c.png)
+
+
 35. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85.
+
+![78](https://user-images.githubusercontent.com/93800511/149942784-8732aa70-217c-4e6e-b297-d82bb199da90.png)
+
 
 37. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
 
