@@ -101,6 +101,10 @@ queda por tiempo indefinido. Trace la forma de onda completa del voltaje present
 
 ![image](https://user-images.githubusercontent.com/93835587/149833937-577ef426-ef80-45fc-9853-eb262504b345.png)
 
+Respuesta 
+
+![d6f70389-54ac-464f-af97-3d53e083bd62](https://user-images.githubusercontent.com/93835587/149854207-5249d422-446e-4b2f-90cf-ae5586680868.jpg)
+
 43. En la figura 12-72, cada fuente de voltaje de cd es reemplazada por una fuente de 10 V de 2 kHz. Determine la reactancia total en cada caso. 
 
 ![image](https://user-images.githubusercontent.com/93835587/149834033-a7b60e85-ac97-47cf-90c4-e58d60b13051.png)
