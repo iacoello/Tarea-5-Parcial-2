@@ -164,17 +164,62 @@ f)360
 La onda seno A es la referencia con un cruce por cero hacia positivo en 0°. Determine el valor instantáneo
 de la onda seno B en 30°, 45°, 90°, 180°, 200°, y 300°.
 
+a)
+
+<img src="https://latex.codecogs.com/svg.image?y=15*sen(\theta&space;&plus;\phi&space;)=&space;y=15&space;sen&space;(30&plus;30)013" title="y=15*sen(\theta +\phi )= y=15 sen (30+30)013" />
+
+b)
+
+<img src="https://latex.codecogs.com/svg.image?y=15*sen(\theta&space;&plus;\phi&space;)=&space;y=15&space;sen&space;(75)=14.5" title="y=15*sen(\theta +\phi )= y=15 sen (75)=14.5" />
+
+c)
+
+<img src="https://latex.codecogs.com/svg.image?y=15*sen(\theta&space;&plus;\phi&space;)=&space;y=15&space;sen&space;(120)=13" title="y=15*sen(\theta +\phi )= y=15 sen (120)=13" />
+
+d)
+
+<img src="https://latex.codecogs.com/svg.image?y=15*sen(\theta&space;&plus;\phi&space;)=&space;y=15&space;sen&space;(210)=-7.5" title="y=15*sen(\theta +\phi )= y=15 sen (210)=-7.5" />
+
+e)
+
+<img src="https://latex.codecogs.com/svg.image?y=15*sen(\theta&space;&plus;\phi&space;)=&space;y=15&space;sen&space;(230)=-11.5" title="y=15*sen(\theta +\phi )= y=15 sen (230)=-11.5" />
+
+f)
+
+<img src="https://latex.codecogs.com/svg.image?y=15*sen(\theta&space;&plus;\phi&space;)=&space;y=15&space;sen&space;(310)=-7.5" title="y=15*sen(\theta +\phi )= y=15 sen (310)=-7.5" />
 
 21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia una ciclo
 dado (cruce por cero) en el instante t  0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?
+
+<img src="https://latex.codecogs.com/svg.image?V=1.414Vms" title="V=1.414Vms" />
+
+<img src="https://latex.codecogs.com/svg.image?Vp=35.35" title="Vp=35.35" />
+
+<img src="https://latex.codecogs.com/svg.image?Vp=Vpsen2\PiFT&space;" title="Vp=Vpsen2\PiFT " />
+
+<img src="https://latex.codecogs.com/svg.image?Vp=35.35&space;sen(2\Pi&space;(2.2)(0.00012))" title="Vp=35.35 sen(2\Pi (2.2)(0.00012))" />
 
 23. Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor
 representan valores pico.
 
 ![78](https://user-images.githubusercontent.com/93800511/149942525-3281396e-f72f-4583-9ad2-9ebd3afb60d8.png)
 
+![45](https://user-images.githubusercontent.com/93800511/149946289-012dc99c-da2e-49fa-8c56-9267c85e9ce7.png)
+
 25. Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes,
 medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
+
+a)
+
+<img src="https://latex.codecogs.com/svg.image?V=(1.414&space;)sen((2\Pi&space;)(5)(3x10-5))=156mV" title="V=(1.414 )sen((2\Pi )(5)(3x10-5))=156mV" />
+
+b)
+
+<img src="https://latex.codecogs.com/svg.image?V=(1.414&space;)sen((2\Pi&space;)(5)(7x10-5))=1mV" title="V=(1.414 )sen((2\Pi )(5)(7x10-5))=1mV" />
+
+c)
+
+<img src="https://latex.codecogs.com/svg.image?V=(1.414&space;)sen((2\Pi&space;)(5)(0.000125))=0mV" title="V=(1.414 )sen((2\Pi )(5)(0.000125))=0mV" />
 
 27. Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2
 en la figura 11-81. Todos los valores mostrados son rms.
@@ -184,18 +229,28 @@ en la figura 11-81. Todos los valores mostrados son rms.
 29. Una onda seno con valor rms de 10.6 V aparece montada sobre un nivel de cd de 24 V. ¿Cuáles son los
 valores máximo y mínimo de la forma de onda resultante?
 
+<img src="https://latex.codecogs.com/svg.image?Vmax=Vcd&plus;Vp" title="Vmax=Vcd+Vp" />
+
+<img src="https://latex.codecogs.com/svg.image?Vmax=24&plus;1.414(10.6)=24&plus;15=39V" title="Vmax=24+1.414(10.6)=24+15=39V" />
+
+<img src="https://latex.codecogs.com/svg.image?Vmin=24-1.414(10.6)=24-15=9V" title="Vmin=24-1.414(10.6)=24-15=9V" />
+
 31. Una onda pico de 6 V aparece montada en un voltaje de cd de 8 V. Si el voltaje de cd se reduce a 5 V,
 ¿qué tan negativa llegaría a ser la onda seno?
+
+<img src="https://latex.codecogs.com/svg.image?Vmin=Vcd-Vp=5-6=01" title="Vmin=Vcd-Vp=5-6=01" />
 
 33. Con la gráfica de la figura 11-84, determine los valores aproximados de tr, tf, tW, y la amplitud.
 
 ![78](https://user-images.githubusercontent.com/93800511/149942726-68830161-3756-46be-b34e-bf36a49c421c.png)
 
+<img src="https://latex.codecogs.com/svg.image?t=3.0ms,tf=3.0ms.d=12.ms&space;Ampl=5V" title="t=3.0ms,tf=3.0ms.d=12.ms Ampl=5V" />
 
 35. Calcule el valor promedio de la forma de onda pulsante mostrada en la figura 11-85.
 
 ![78](https://user-images.githubusercontent.com/93800511/149942784-8732aa70-217c-4e6e-b297-d82bb199da90.png)
 
+<img src="https://latex.codecogs.com/svg.image?Vprom=5(0.166...)(5)=5.833" title="Vprom=5(0.166...)(5)=5.833" />
 
 37. Determine el valor promedio de cada forma de onda pulsante mostrada en la figura 11-86.
 
