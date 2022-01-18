@@ -226,6 +226,8 @@ Respuesta
 
 47.Determine la potencia verdadera y la potencia reactiva en el problema 46. 
 
+<img src="https://latex.codecogs.com/svg.image?\\I=\frac{V}{X_{C}}&space;\\I=\frac{20V}{X_{0.9A}}\\I=200\mho&space;&space;" title="\\I=\frac{V}{X_{C}} \\I=\frac{20V}{X_{0.9A}}\\I=200\mho " />
+
 49. Determine el valor de C1 en la figura 12-82.
 
 ![49999](https://user-images.githubusercontent.com/93835587/149851573-70ed5fb2-596b-4d8e-8d05-5c6aa48e5e27.jpg)
